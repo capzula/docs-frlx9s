@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-kit9wx.date-me.pro/sitemap.xml
